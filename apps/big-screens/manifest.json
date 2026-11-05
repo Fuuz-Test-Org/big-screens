@@ -1,0 +1,47 @@
+{
+  "applicationPublisherId": null,
+  "assets": [],
+  "catalog": {
+    "assetName": "big-screens-0.0.1.fuuz",
+    "category": "Miscellaneous",
+    "description": "",
+    "id": "big-screens",
+    "name": "Big Screens",
+    "publisher": "Fuuz-Test-Org",
+    "releaseTag": "big-screens@0.0.1",
+    "sha256": "900c5aac1b685546b82c183532cf532fb028fad81f1ea5d2289e913ffeedd2fe",
+    "tags": [],
+    "type": "application",
+    "version": "0.0.1"
+  },
+  "collections": [
+    {
+      "api": "application",
+      "modelName": "ModuleGroup"
+    },
+    {
+      "api": "application",
+      "modelName": "Module"
+    }
+  ],
+  "components": {
+    "screens": [
+      "first-screen-rename",
+      "second-screen"
+    ]
+  },
+  "dependencies": {},
+  "enterpriseId": "local",
+  "environmentId": "build",
+  "name": "Big Screens",
+  "platformVersion": "2026.9.1",
+  "repoLayoutVersion": 1,
+  "repository": {
+    "directory": "apps/big-screens",
+    "type": "git",
+    "url": "https://github.com/Fuuz-Test-Org/big-screens"
+  },
+  "requiredSecrets": [],
+  "specVersion": "2.0.0",
+  "version": "0.0.1"
+}

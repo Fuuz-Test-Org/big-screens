@@ -1,0 +1,28 @@
+{
+  "files": [
+    {
+      "path": "app-components/screens/first-screen-rename.json",
+      "sha256": "7f085c246e78f1a88ca6c7b70508d701fa61e06e5fee9bbe74c470429ca35189"
+    },
+    {
+      "path": "app-components/screens/second-screen.json",
+      "sha256": "04d65a56344c66536bea7e2b7d06ad894ca91d3fb6e24074f18f16e438f029b8"
+    },
+    {
+      "path": "collections/ModuleGroup/system.json",
+      "sha256": "52716c8c583c304b09afe371f139ce9eaa802e496c2461a9483c2976777b5f70"
+    },
+    {
+      "path": "collections/Module/testing.json",
+      "sha256": "16c022a79a871f8c8468c4463bd212414e6cd0fa4436b78fb51d9161bf2e067b"
+    },
+    {
+      "path": "manifest.json",
+      "sha256": "83ba427b5f02a700b7347bc8be8d375478a1c2df54cfe91ebf910d2f69cb5cdd"
+    },
+    {
+      "path": "definition.json",
+      "sha256": "77360a279a2d229cced1c1a6e3cefc13b3e3b251943b264abf822716a607e637"
+    }
+  ]
+}

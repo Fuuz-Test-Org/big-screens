@@ -1,0 +1,124 @@
+{
+  "header": {
+    "_customFields": {
+      "_externalId": null
+    },
+    "active": true,
+    "description": "",
+    "edgeScreen": false,
+    "forceFullscreen": false,
+    "id": "secondScreen",
+    "isWidget": false,
+    "moduleId": "testing",
+    "name": "Second Screen",
+    "substitutesScreenId": null
+  },
+  "routes": [
+    {
+      "id": "cmp1ijbrs01p2077570jpdf3e",
+      "isMenuAccessible": true,
+      "moduleId": "testing",
+      "path": "/system/testing/secondScreen",
+      "screenId": "secondScreen",
+      "submenu": "",
+      "title": "Second Screen"
+    }
+  ],
+  "version": {
+    "description": "",
+    "design": {
+      "components": [
+        {
+          "name": "New Screen",
+          "props": {
+            "design": {
+              "ROOT": {
+                "custom": {
+                  "elementCounts": {
+                    "Text": 1
+                  },
+                  "elementName": "Screen"
+                },
+                "displayName": "Screen",
+                "hidden": false,
+                "isCanvas": true,
+                "linkedNodes": {},
+                "nodes": [
+                  "VwJz1TVuKC"
+                ],
+                "parent": null,
+                "props": {
+                  "alignItems": "stretch",
+                  "borderRadius": 0,
+                  "flexDirection": "column",
+                  "flexGrow": false,
+                  "flexWrap": false,
+                  "flowsDelay": 0,
+                  "height": "100%",
+                  "hidden": false,
+                  "justifyContent": "flex-start",
+                  "margin": 0,
+                  "padding": 0,
+                  "removeOuterMargin": false,
+                  "shadow": false,
+                  "width": "100%"
+                },
+                "type": {
+                  "resolvedName": "Screen"
+                }
+              },
+              "VwJz1TVuKC": {
+                "custom": {
+                  "elementName": "Text1"
+                },
+                "displayName": "Text",
+                "hidden": false,
+                "isCanvas": false,
+                "linkedNodes": {},
+                "nodes": [],
+                "parent": "ROOT",
+                "props": {
+                  "content": {
+                    "blocks": [
+                      {
+                        "data": {},
+                        "depth": 0,
+                        "entityRanges": [],
+                        "inlineStyleRanges": [
+                          {
+                            "length": 30,
+                            "offset": 0,
+                            "style": "fontfamily-Roboto"
+                          },
+                          {
+                            "length": 30,
+                            "offset": 0,
+                            "style": "fontsize-12"
+                          }
+                        ],
+                        "key": "cl9qaup740002356nczbdvi6q",
+                        "text": "This is the second base screen",
+                        "type": "unstyled"
+                      }
+                    ],
+                    "entityMap": {}
+                  },
+                  "height": "auto",
+                  "width": "100%"
+                },
+                "type": {
+                  "resolvedName": "RichText"
+                }
+              }
+            }
+          },
+          "tabTitle": "New Tab",
+          "type": "canvas"
+        }
+      ]
+    },
+    "id": "cmp1ij5z401on07754byi2bg9",
+    "number": "0.0.1",
+    "screenId": "secondScreen"
+  }
+}
