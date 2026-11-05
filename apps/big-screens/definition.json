@@ -1,0 +1,141 @@
+{
+  "packageDefinition": {
+    "name": "Big Screens"
+  },
+  "packageDefinitionSelections": [
+    {
+      "api": "application",
+      "fields": [
+        {
+          "name": "id"
+        },
+        {
+          "name": "name"
+        },
+        {
+          "name": "description"
+        },
+        {
+          "name": "active"
+        },
+        {
+          "name": "edgeScreen"
+        },
+        {
+          "name": "forceFullscreen"
+        },
+        {
+          "name": "moduleId"
+        },
+        {
+          "name": "substitutesScreenId"
+        },
+        {
+          "name": "isWidget"
+        },
+        {
+          "name": "_customFields._externalId"
+        }
+      ],
+      "id": "cmv59hleb0020356sd33nnuei",
+      "metadata": {
+        "dataTransform": "$",
+        "labelField": "name",
+        "viewFields": [
+          {
+            "id": "id",
+            "label": "id"
+          },
+          {
+            "id": "name",
+            "label": "name"
+          }
+        ]
+      },
+      "modelName": "Screen",
+      "packageDefinitionVersionId": "cmv59hl88001z356s11b83who",
+      "selected": [
+        {
+          "id": "firstScreen",
+          "label": "First Screen Rename"
+        },
+        {
+          "id": "secondScreen",
+          "label": "Second Screen"
+        }
+      ]
+    },
+    {
+      "api": "application",
+      "fields": [
+        {
+          "name": "id"
+        },
+        {
+          "name": "name"
+        },
+        {
+          "name": "description"
+        },
+        {
+          "name": "moduleGroupId"
+        },
+        {
+          "name": "_customFields._externalId"
+        }
+      ],
+      "id": "cmv59hleb0021356sywasey7b",
+      "metadata": {
+        "labelField": "name"
+      },
+      "modelName": "Module",
+      "packageDefinitionVersionId": "cmv59hl88001z356s11b83who",
+      "selected": [
+        {
+          "id": "testing",
+          "label": "Testing"
+        }
+      ]
+    },
+    {
+      "api": "application",
+      "fields": [
+        {
+          "name": "id"
+        },
+        {
+          "name": "name"
+        },
+        {
+          "name": "icon"
+        },
+        {
+          "name": "description"
+        },
+        {
+          "name": "_customFields._externalId"
+        }
+      ],
+      "id": "cmv59hleb0022356srtjw8jlo",
+      "metadata": {
+        "dataTransform": "$",
+        "labelField": "name",
+        "viewFields": []
+      },
+      "modelName": "ModuleGroup",
+      "packageDefinitionVersionId": "cmv59hl88001z356s11b83who",
+      "selected": [
+        {
+          "id": "system",
+          "label": "System"
+        }
+      ]
+    }
+  ],
+  "packageDefinitionVersion": {
+    "exportedFileId": null,
+    "id": "cmv59hl88001z356s11b83who",
+    "packageDefinitionId": "bigScreens",
+    "version": "0.0.1"
+  }
+}
