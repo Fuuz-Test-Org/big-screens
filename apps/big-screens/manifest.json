@@ -2,17 +2,17 @@
   "applicationPublisherId": null,
   "assets": [],
   "catalog": {
-    "assetName": "big-screens-0.0.1.fuuz",
+    "assetName": "big-screens-0.0.2.fuuz",
     "category": "Miscellaneous",
     "description": "",
     "id": "big-screens",
     "name": "Big Screens",
     "publisher": "Fuuz-Test-Org",
-    "releaseTag": "big-screens@0.0.1",
-    "sha256": "900c5aac1b685546b82c183532cf532fb028fad81f1ea5d2289e913ffeedd2fe",
+    "releaseTag": "big-screens@0.0.2",
+    "sha256": "f387d4405f1e0867b489063725528518e64ffbd32ac2a4a2c32d33fe401da6bc",
     "tags": [],
     "type": "application",
-    "version": "0.0.1"
+    "version": "0.0.2"
   },
   "collections": [
     {
@@ -43,5 +43,5 @@
   },
   "requiredSecrets": [],
   "specVersion": "2.0.0",
-  "version": "0.0.1"
+  "version": "0.0.2"
 }
