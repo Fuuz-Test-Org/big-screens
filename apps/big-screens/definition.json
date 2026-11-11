@@ -37,7 +37,7 @@
           "name": "_customFields._externalId"
         }
       ],
-      "id": "cmv59hleb0020356sd33nnuei",
+      "id": "cmw3xisgw01a107753lbpbawc",
       "metadata": {
         "dataTransform": "$",
         "labelField": "name",
@@ -53,7 +53,7 @@
         ]
       },
       "modelName": "Screen",
-      "packageDefinitionVersionId": "cmv59hl88001z356s11b83who",
+      "packageDefinitionVersionId": "cmw3xisg9019y077542l15l40",
       "selected": [
         {
           "id": "firstScreen",
@@ -84,12 +84,12 @@
           "name": "_customFields._externalId"
         }
       ],
-      "id": "cmv59hleb0021356sywasey7b",
+      "id": "cmw3xisgw01a207756ew71xvl",
       "metadata": {
         "labelField": "name"
       },
       "modelName": "Module",
-      "packageDefinitionVersionId": "cmv59hl88001z356s11b83who",
+      "packageDefinitionVersionId": "cmw3xisg9019y077542l15l40",
       "selected": [
         {
           "id": "testing",
@@ -116,14 +116,14 @@
           "name": "_customFields._externalId"
         }
       ],
-      "id": "cmv59hleb0022356srtjw8jlo",
+      "id": "cmw3xisgx01a307754cem5lst",
       "metadata": {
         "dataTransform": "$",
         "labelField": "name",
         "viewFields": []
       },
       "modelName": "ModuleGroup",
-      "packageDefinitionVersionId": "cmv59hl88001z356s11b83who",
+      "packageDefinitionVersionId": "cmw3xisg9019y077542l15l40",
       "selected": [
         {
           "id": "system",
@@ -133,9 +133,9 @@
     }
   ],
   "packageDefinitionVersion": {
-    "exportedFileId": null,
-    "id": "cmv59hl88001z356s11b83who",
+    "exportedFileId": "cmwc0eijp00hd0775bv4d5rpd",
+    "id": "cmw3xisg9019y077542l15l40",
     "packageDefinitionId": "bigScreens",
-    "version": "0.0.1"
+    "version": "0.0.2"
   }
 }

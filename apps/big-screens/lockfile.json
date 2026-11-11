@@ -18,11 +18,11 @@
     },
     {
       "path": "manifest.json",
-      "sha256": "83ba427b5f02a700b7347bc8be8d375478a1c2df54cfe91ebf910d2f69cb5cdd"
+      "sha256": "f1fb30c01ce2c3dcf8a0d236adc00e32ba247e5cc39d759e0e643126e18bfc10"
     },
     {
       "path": "definition.json",
-      "sha256": "77360a279a2d229cced1c1a6e3cefc13b3e3b251943b264abf822716a607e637"
+      "sha256": "1d09515878d6225f829e55ec53db2c820ed4e07b7ccd380670149f888f231a94"
     }
   ]
 }
